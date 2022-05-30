@@ -1,0 +1,23 @@
+
+@mixin sm-block() {
+    @media  screen and(max-width: 768px) {
+        @content;
+    }
+}
+@mixin medium-block() {
+    @media  screen and(max-width: 991px) {
+        @content;
+    }
+}
+$georgia: 'Georgia', serif;
+$Arial: 'Arial', sans-serif;
+$mainColor: #F1CDB3;
+$white: white;
+$white-light: #FAFAFA;
+$gray: #CDCDCD;
+$black: #292929;
+$dark-lighter: #545454;
+$dark-light: #4C4C4C;
+$gray-dark: #828282;
+$letterS: 0.06em;
+$hoverC: #FDDCC4;
