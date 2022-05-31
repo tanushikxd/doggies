@@ -156,7 +156,7 @@ body, p, a, .text, button, .btn {
 }
 
 .hero {
-  background-image: url(images/start-screen-gradient-background.jpg);
+  background-image: url(assets/images/start-screen-gradient-background.jpg);
   background-repeat: no-repeat;
   height: 908px;
   background-size: cover;
@@ -421,7 +421,7 @@ body, p, a, .text, button, .btn {
 }
 
 .footer {
-  background-image: url(images/footer-gradient-background.jpg);
+  background-image: url(assets/images/footer-gradient-background.jpg);
   height: 350px;
   background-repeat: no-repeat;
   background-size: cover;
