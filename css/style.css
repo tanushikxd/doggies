@@ -156,7 +156,7 @@ body, p, a, .text, button, .btn {
 }
 
 .hero {
-  background-image: url(..assets/images/start-screen-gradient-background.jpg);
+  background-image: url(..images/start-screen-gradient-background.jpg);
   background-repeat: no-repeat;
   height: 908px;
   background-size: cover;
@@ -404,7 +404,7 @@ body, p, a, .text, button, .btn {
   content: "";
   width: 30px;
   height: 23px;
-  background-image: url(assets/icons/credit-card.svg);
+  background-image: url(..assets/icons/credit-card.svg);
   background-repeat: no-repeat;
   background-size: cover;
   position: absolute;
@@ -467,7 +467,7 @@ body, p, a, .text, button, .btn {
   content: "";
   width: 40px;
   height: 32px;
-  background-image: url(assets/icons/icon-email.svg);
+  background-image: url(..assets/icons/icon-email.svg);
   position: absolute;
   left: 0;
   top: 0;
@@ -484,7 +484,7 @@ body, p, a, .text, button, .btn {
   content: "";
   width: 40px;
   height: 32px;
-  background-image: url(assets/icons/icon-phone.svg);
+  background-image: url(..assets/icons/icon-phone.svg);
   position: absolute;
   left: 0;
   bottom: 0;
@@ -516,7 +516,7 @@ body, p, a, .text, button, .btn {
   content: "";
   width: 40px;
   height: 32px;
-  background-image: url(assets/icons/icon-marker.svg);
+  background-image: url(..assets/icons/icon-marker.svg);
   background-repeat: no-repeat;
   position: absolute;
   left: 0;
@@ -534,7 +534,7 @@ body, p, a, .text, button, .btn {
   content: "";
   width: 40px;
   height: 32px;
-  background-image: url(assets/icons/icon-marker.svg);
+  background-image: url(..assets/icons/icon-marker.svg);
   background-repeat: no-repeat;
   position: absolute;
   left: 0;
@@ -648,7 +648,7 @@ body, p, a, .text, button, .btn {
     content: "";
     width: 14px;
     height: 6px;
-    background-image: url(assets/icons/Arrow-left.svg);
+    background-image: url(..assets/icons/Arrow-left.svg);
     background-repeat: no-repeat;
     background-size: 14px;
     position: absolute;
@@ -660,7 +660,7 @@ body, p, a, .text, button, .btn {
     content: "";
     width: 14px;
     height: 6px;
-    background-image: url(assets/icons/Arrow-right.svg);
+    background-image: url(..assets/icons/Arrow-right.svg);
     background-repeat: no-repeat;
     background-size: 14px;
     position: absolute;
